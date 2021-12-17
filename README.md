@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 ## Test Engineer | Jr.Java Developer
 
 
-I am currently working to be a java backend developer.
+I am  working to be a java backend developer.
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align=left>
 
 📫 How to reach me: ...
