@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there  👋
 
 <!--
 **tugbayavuzz/tugbayavuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+
+###  I'm Tugba :raising_hand: :sunglasses:
+
+## Test Engineer | Jr.Java Developer
 
 - 🔭 I’m currently working on Test Engineering
 - 🌱 I’m currently learning Java
@@ -11,9 +15,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Software Engineering
 - ⚡ Fun fact: I always smile 😄 :laughing:
 
-###  I am Tugba :raising_hand: :sunglasses:
 
-## Test Engineer | Jr.Java Developer
 
 
 I am  working to be a java backend developer.
