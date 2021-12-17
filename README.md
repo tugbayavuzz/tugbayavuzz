@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 I am  working to be a java backend developer.
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align=left>
 
-📫 How to reach me: ...
+📫 How to reach me
 
 [<img src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" width="30" align=left>](https://www.linkedin.com/in/tugbayavuzz/)
 
