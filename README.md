@@ -30,9 +30,9 @@ I am  working to be a java backend developer.
 [<img src="https://cdn.iconscout.com/icon/free/png-64/hackerrank-3521478-2944922.png" width="30" align=left>](https://www.hackerrank.com/tugbayavuz?hr_r=1)
 
 [<img src="https://uploads-ssl.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" width="50" align=left>](https://app.patika.dev/tugbayavuzz)
-<br/>
-<br/>
+
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=tugbayavuzz&&show_icons=true&title_color=BA55D3&icon_color=E0B0FF&text_color=daf7dc&bg_color=151515">
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugbayavuzz&layout=compact)](https://github.com/tugbayavuzz/github-readme-stats)
 
