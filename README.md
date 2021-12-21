@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Test Engineering
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with Java, React, Go
+- 🤔 I’m looking for help with Java, Angular
 - 💬 Ask me about Software Engineering
 - ⚡ Fun fact: I always smile 😄 :laughing:
 
