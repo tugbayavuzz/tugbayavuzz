@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 
 ## Test Engineer | Jr.Software Engineer
 
-- 🔭 I’m currently working on Test Engineering
+- 🔭 I’m currently working on Test Engineer
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with Java, Angular
 - 💬 Ask me about Software Engineering
