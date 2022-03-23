@@ -7,9 +7,9 @@ Here are some ideas to get you started:-->
 
 ###  I'm Tugba :raising_hand: :sunglasses:
 
-## Test Engineer | Jr.Software Engineer
+## Mid Software Engineer
 
-- 🔭 I’m currently working on Test Engineer
+- 🔭 I’m currently working on Mid Level Application Engineer
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with Java, Angular
 - 💬 Ask me about Software Engineering
@@ -18,7 +18,6 @@ Here are some ideas to get you started:-->
 
 
 
-I am  working to be a software(Java) developer.
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align=left>
 
 📫 How to reach me
