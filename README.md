@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 ###  I'm Tugba :raising_hand: :sunglasses:
 
-## Mid Software Engineer
+## Senior Software Engineer
 
 - 🔭 I’m currently working on Senior Application Engineer
 - 🌱 I’m currently learning Java
