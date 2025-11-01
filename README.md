@@ -9,9 +9,8 @@ Here are some ideas to get you started:-->
 
 ## Mid Software Engineer
 
-- 🔭 I’m currently working on Mid Level Application Engineer
+- 🔭 I’m currently working on Senior Application Engineer
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with Java, Angular
 - 💬 Ask me about Software Engineering
 - ⚡ Fun fact: I always smile 😄 :laughing:
 
